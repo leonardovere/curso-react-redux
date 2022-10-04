@@ -1,0 +1,13 @@
+.container-campos-sorteio {
+    display: flex;
+}
+
+.container-campos-sorteio div {
+    flex: 1;
+}
+
+.container-campos-sorteio button {
+    display: flex;
+    flex: 1;
+    margin: auto;
+}

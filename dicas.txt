@@ -1,0 +1,4 @@
+comandos:
+--------------------------------
+npx "[comando]" -> Cria uma variável temporária que será executada pelo npm
+create-react-app "[NOME DO PROJETO]" -> cria um novo projeto react

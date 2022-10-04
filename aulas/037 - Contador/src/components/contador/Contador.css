@@ -1,0 +1,35 @@
+label {
+    font-size: 0.8em;
+    display: block;
+    margin: 0px auto 5px 10px;
+}
+
+.container-campos {
+    display: flex;
+    margin: 15px auto;
+}
+
+.container-campos > div {
+    flex-grow: 10;
+    flex: 1;
+}
+
+.container-botoes {
+    display: flex;
+}
+
+.container-botoes button {
+    width: 50px;
+    height: 50px;
+    margin: auto;
+    font-size: 1.5em;
+    color: #fff;
+    text-align: center;
+    background-color: rgb(27, 27, 165);
+    border-radius: 100%;
+    border: none;
+}
+
+.container-botoes > span {
+    flex: 2;
+}

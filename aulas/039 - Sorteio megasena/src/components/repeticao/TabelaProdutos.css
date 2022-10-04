@@ -1,0 +1,16 @@
+td, th {
+    border: 2px solid #fefefe;
+    padding: 10px;
+}
+
+td:nth-child(odd), th:nth-child(odd) {
+    text-align: center;
+}
+
+tbody {
+    overflow-y: auto;
+}
+
+tbody tr:nth-child(even) {
+    background-color: #3b3b3b;
+}

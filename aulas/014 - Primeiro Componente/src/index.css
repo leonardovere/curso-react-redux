@@ -1,0 +1,8 @@
+/* Deve conter o mesmo nome do arquivos JS */
+@charset "utf-8";
+
+body {
+    background-color: #333;
+    color: #fefefe;
+    font-family: Roboto, Arial, Helvetica, sans-serif;
+}
