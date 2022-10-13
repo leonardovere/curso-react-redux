@@ -1,0 +1,5 @@
+# Todas as pastas
+node_modules
+
+# Backend
+/backend/*.log
